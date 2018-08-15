@@ -1,3 +1,4 @@
+
 ## Project Overview
 
 This project involved improving a static site by implementing responsiveness for all screen sizes, allow for screen reader use and ARIA accessablity, and an offline first approach.
@@ -14,3 +15,8 @@ When the server is running, in the browser of your choice, go to `http://localho
 ### Instructions
 
 To check offline availability go to the dev tools, network tab and check the `offline` checkbox then refresh the page.
+
+
+
+
+
